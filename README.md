@@ -14,3 +14,5 @@
  
  Open [DEMO_LEVEL.unity](Assets/Scenes/) with Unity in the Assets/Scenes folder
 
+# Short Gameplay Demo
+ [link](https://youtu.be/ugn8t6ENGAs)
